@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=My+Soul&family=Poppins:ital,wght@1,200&display=swap');
+
+
+/* font-family: 'My Soul', cursive;
+font-family: 'Poppins', sans-serif; */
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+.headline{
+    color: mediumblue;
+    font-family: 'Poppins', sans-serif;
+    font-size: 52px;
+    background-color:antiquewhite;
+    border: 1px solid beige;
+    border-radius: 5px;
+    box-shadow: 0 0 20px darkgray;
+    margin: 20px;
+}
+
+.ul{
+    list-style:none;
+    color: mediumblue;
+    font-family: 'My Soul', cursive;
+    font-size: 28px;
+    background-color: darkgray;
+    border-radius: 5px;
+    box-shadow: 0 0 20px antiquewhite;
+    margin: 20px;
+}
+
+.changeHeadline{
+    color:red;
+    background: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 52px;
+    border: 1px solid beige;
+    border-radius: 5px;
+    box-shadow: 0 0 20px darkgray;
+    margin: 20px;
+}
